@@ -1,6 +1,6 @@
-// Exercise #3: Celsius to Fahrenheit
 let celsius = 30;
+console.log(30); // ture
+console.log(celsius); // ture
 
-// Start coding here;
-
-let fahrenheit;
+let fahrenheit = (30*1.8)+32;
+console.log(fahrenheit); 
